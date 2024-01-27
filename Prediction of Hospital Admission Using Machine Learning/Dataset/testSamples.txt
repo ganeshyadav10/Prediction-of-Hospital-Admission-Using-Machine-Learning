@@ -1,0 +1,8 @@
+hospital,sex,age,patient_num_hr,arrival_mode,injury,complaint,mental,pain,pain_scale,SBP,DBP,HR,RR,BT,saturation,KTAS_RN,diagnosis,result,KTAS_expert,error_code,stay_min,KTAS_duration_min,mistriage
+1,0,65,12,private_ambulance,0,headache,1,1,3,140,100,80,20,36.0,98,3,"Subarachnoid haemorrhage, unspecified",ward,4,pain,153,3.0,1
+0,1,69,11,ambulance,0,0,1,1,4,121,76,85,20,37.4,,3,Acute gastroenteritis,discharge,4,vital_sign,363,10.53,1
+1,1,53,12,ambulance,1,Open Wound,1,1,4,130,80,100,20,36.4,97,2,"Open wound of other parts of head, face",ward,3,physical_exam,613,4.0,1
+1,1,89,8,private_ambulance,0,melena,1,0,0,100,60,74,20,36.2,95,2,"Acute with haemorrhage, duodenal ulcer",op,3,med_record,8397,4.0,1
+1,0,37,5,private_ambulance,0,Abdominal pain (finding),1,1,3,120,80,101,20,36.8,98,3,"Maternal care for cervical incompetence, 22 weeks or more pregnant ~ less than 34 weeks pregnant",ward,4,pain,76,2.0,1
+1,0,39,17,car,0,both leg pain,1,1,3,130,80,93,20,36.3,99,4,"Rhabdomyolysis, lower leg",discharge,5,pain,589,2.0,1
+1,0,81,5,private_ambulance,1,Left leg pain,1,1,4,200,160,80,20,36.0,98,3,"Closed, fracture of shaft of femur",transfer,4,pain,185,3.0,1

@@ -1,0 +1,2 @@
+python EDAdmission.py
+pause
